@@ -1,0 +1,31 @@
+
+/* Start Footer Css */
+#footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 500px;
+  }
+  #footer_row{
+    margin-top: 50px;
+  }
+  
+  #footer_li{
+    list-style: none;
+    text-decoration: none;
+  }
+  #footer_li:hover{
+    color: #ffa931;
+  }
+  #footer span{
+    color: grey;
+  }
+  #footer span:hover{
+    color: #ffa931;
+  }
+  @media only screen and (max-width: 600px) {
+    #footer {
+      background-color: black;
+      height: 1300px;
+    }
+  }

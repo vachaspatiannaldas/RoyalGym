@@ -1,0 +1,17 @@
+.body1{
+    
+    background-image: linear-gradient(180deg,#c83660 10%,#c83660 100%);
+    background-size: cover;
+}
+.btn{
+    background-color: #c83660;
+    border-color: #c83660;
+}
+.btn:hover{
+    background-color: #c83660;
+}
+
+.small{
+    color: #c83660;
+}
+
